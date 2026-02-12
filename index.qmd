@@ -5,7 +5,7 @@ author: "SpeedyKom Team"
 date: "February 21, 2026"
 format:
   revealjs:
-    theme: simple
+    theme: default
     slide-number: true
     transition: slide
     css: styles.css
