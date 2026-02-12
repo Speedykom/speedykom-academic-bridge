@@ -9,10 +9,12 @@ format:
     theme: [default, theme.scss]
     slide-number: true
     transition: slide
+    logo: images/Speedykom_logo2.png
     controls: true
     embed-resources: true
     scrollable: false
-jupyter: python3  
+    navigation-mode: linear
+jupyter: python3
 ---
 
 ## Scan to Join {background-color="#1e3a5f"}
