@@ -1,0 +1,194 @@
+/* SpeedyKom Brand Colors */
+:root {
+  --speedykom-blue: #1e3a5f;
+  --speedykom-light-blue: #2c5282;
+  --speedykom-teal: #2a9d8f;
+  --speedykom-coral: #e76f51;
+  --speedykom-dark: #264653;
+  --speedykom-cream: #f4f1de;
+  --speedykom-white: #ffffff;
+}
+
+/* Base slide styling */
+.reveal {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 32px;
+  color: var(--speedykom-white);
+}
+
+.reveal h1 {
+  font-size: 2.2em;
+  color: var(--speedykom-white);
+  font-weight: 700;
+  margin-bottom: 0.5em;
+}
+
+.reveal h2 {
+  font-size: 1.6em;
+  color: var(--speedykom-white);
+  font-weight: 600;
+  margin-bottom: 0.6em;
+}
+
+.reveal h3 {
+  font-size: 1.2em;
+  color: var(--speedykom-white);
+  font-weight: 500;
+}
+
+/* Slide backgrounds */
+.reveal .slides section {
+  background-color: var(--speedykom-blue);
+}
+
+/* Lists */
+.reveal ul {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.reveal ul li {
+  position: relative;
+  padding-left: 1.5em;
+  margin-bottom: 0.6em;
+  font-size: 0.95em;
+  line-height: 1.4;
+}
+
+.reveal ul li:before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  color: var(--speedykom-teal);
+  font-weight: bold;
+}
+
+/* Images */
+.reveal img {
+  max-width: 90%;
+  max-height: 500px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* Callouts */
+.reveal .callout {
+  border-left: 4px solid var(--speedykom-teal);
+  padding: 0.8em 1.2em;
+  margin: 1em 0;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 0 8px 8px 0;
+}
+
+.reveal .callout-important {
+  border-left-color: var(--speedykom-coral);
+  background: rgba(231, 111, 81, 0.15);
+}
+
+.reveal .callout-warning {
+  border-left-color: #f4a261;
+  background: rgba(244, 162, 97, 0.15);
+}
+
+.reveal .callout-tip {
+  border-left-color: var(--speedykom-teal);
+  background: rgba(42, 157, 143, 0.15);
+}
+
+/* Columns */
+.reveal .columns {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+}
+
+.reveal .column {
+  flex: 1;
+}
+
+/* Tables */
+.reveal table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  font-size: 0.85em;
+}
+
+.reveal table th,
+.reveal table td {
+  padding: 0.6em;
+  text-align: left;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.reveal table th {
+  font-weight: 600;
+  color: var(--speedykom-teal);
+}
+
+/* Links */
+.reveal a {
+  color: var(--speedykom-teal);
+  text-decoration: none;
+}
+
+.reveal a:hover {
+  color: var(--speedykom-white);
+  text-decoration: underline;
+}
+
+/* Fragment animations */
+.reveal .fragment {
+  opacity: 0;
+  transition: all 0.3s ease;
+}
+
+.reveal .fragment.visible {
+  opacity: 1;
+}
+
+/* Footer */
+.reveal .footer {
+  font-size: 0.5em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* SpeedyKom Logo - Fixed at bottom right of all slides */
+.reveal .slides {
+  position: relative;
+}
+
+.reveal .slides::after {
+  content: "";
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  width: 150px;
+  height: 50px;
+  background-image: url('images/Speedykom_logo2.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+/* Slide number */
+.reveal .slide-number {
+  background: var(--speedykom-teal);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.6em;
+}
+
+/* Incremental list styling */
+.reveal .incremental > li {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+/* Ensure images fit well */
+.reveal section img {
+  display: block;
+  margin: 0 auto;
+}

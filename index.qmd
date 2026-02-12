@@ -1,0 +1,581 @@
+---
+title: "From Classrooms to Impact"
+subtitle: "Turning Academic Projects into Real-World Solutions"
+author: "SpeedyKom Team"
+date: "February 21, 2025"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    css: styles.css
+---
+
+## Welcome {background-color="#1e3a5f"}
+
+### Turning Academic Assignments into Real Solutions
+
+**Saturday, February 21, 2025**  
+**9:00 AM — 11:00 AM CET**
+
+---
+
+## The Reality Check {background-color="#1e3a5f"}
+
+![Students presenting their solar car project](images/school_projects.jpg)
+
+---
+
+## The Reality Check {background-color="#1e3a5f"}
+
+::: {.incremental}
+Universities produce thousands of projects every year:
+
+- Mobile apps
+- AI diagnostic tools
+- E-learning platforms
+- Smart agriculture systems
+- Fintech solutions
+:::
+
+. . .
+
+::: {.fragment .fade-in}
+**...but only a small fraction ever see real-world use.**
+:::
+
+---
+
+## Why Do Projects Fail? {background-color="#1e3a5f"}
+
+![Students in engineering lab](images/school_projects2.jpg)
+
+---
+
+## Why Do Projects Fail? {background-color="#1e3a5f"}
+
+::: {.columns}
+
+::: {.column width="50%"}
+**Academic Mindset:**
+
+- Built for grades, not users
+- Ignore existing infrastructure
+- Assume perfect conditions
+- One-time build, no maintenance
+:::
+
+::: {.column width="50%"}
+**Reality:**
+
+- Users have real needs
+- Systems already exist
+- Connectivity is limited
+- Sustainability matters
+:::
+
+:::
+
+---
+
+## Common Projects That Fail {background-color="#1e3a5f"}
+
+::: {.incremental}
+1. **"Uber for X" Apps** — Ignore low smartphone penetration
+2. **Standalone E-Learning** — Universities already use Moodle
+3. **AI Diagnostic Tools** — No validation with real medical data
+4. **IoT Agriculture Sensors** — Farmers can't afford hardware
+5. **Blockchain Voting** — Trust issues are social, not technical
+6. **"Better than M-Pesa" Apps** — Ignore regulatory requirements
+:::
+
+---
+
+## What Students Need {background-color="#1e3a5f"}
+
+**Technical Skills:**
+
+- Interoperability
+- Open standards
+- Secure-by-design architecture
+- Offline-first development
+- AI integration
+
+---
+
+## What Students Need {background-color="#1e3a5f"}
+
+**Strategic Thinking:**
+
+- Problem-first approach
+- Understanding stakeholders
+- Sustainability planning
+- Regulatory awareness
+- Impact measurement
+
+---
+
+## Critical Questions {background-color="#1e3a5f"}
+
+::: {.callout-important}
+Before you write a single line of code:
+:::
+
+::: {.incremental}
+- Who will maintain this in 5 years?
+- How does it connect to existing systems?
+- What happens when the internet is down?
+- Why would someone pay for this?
+:::
+
+---
+
+## About SpeedyKom {background-color="#1e3a5f"}
+
+**Digital Infrastructure for Future Societies**
+
+We help governments and development actors design and build digital systems that deliver lasting public impact.
+
+**Headquarters:** Germany  
+**Focus:** Africa & Europe  
+**Partners:** EU, GIZ, African Union, UNHCR, FAO
+
+---
+
+## What SpeedyKom Does {background-color="#1e3a5f"}
+
+**Core Expertise:**
+
+- Public Sector Digital Transformation
+- Digital Health Systems
+- Interoperability & Integration
+- Open Standards & Open Source
+
+---
+
+## What SpeedyKom Does {background-color="#1e3a5f"}
+
+**Technologies:**
+
+- AI & Machine Learning
+- Secure-by-Design Software
+- Agile Methods
+- Cloud & Edge Computing
+
+---
+
+## Real Projects, Real Impact {background-color="#1e3a5f"}
+
+::: {.incremental}
+- **Malawi National eRegister** — Digital health records
+- **Digital One Health Platform** — Disease surveillance
+- **Beninnovation** — Digital public services
+- **EPEPI Electrification Portal** — Energy access planning
+- **Zambia ARPA Dashboards** — Climate resilience
+:::
+
+---
+
+## Our Philosophy {background-color="#1e3a5f"}
+
+::: {.callout-important}
+**"Digital systems should strengthen public institutions and advance development outcomes, not just digitize workflows."**
+:::
+
+Technology that is secure, scalable, context-rooted, and sustainable.
+
+---
+
+## 5,500 Years of Partnership {background-color="#1e3a5f"}
+
+![Mongolian pastoralist with horse](images/origin_horses.webp)
+
+---
+
+## 5,500 Years of Partnership {background-color="#1e3a5f"}
+
+**The Beginning (~3500 BCE):**
+
+- **Where:** Kazakhstan (Botai culture)
+- **What:** First domestication of horses
+
+**The Partnership:**
+- Humans bred horses for strength and speed
+- A symbiotic relationship developed
+
+---
+
+## Horses Enabled Civilization {background-color="#1e3a5f"}
+
+**For Millennia:**
+
+- **Agriculture** — plowing fields, transporting harvests
+- **Commerce** — trade routes, carrying goods
+- **Warfare** — cavalry charges, logistics
+- **Communication** — messengers, postal systems
+
+---
+
+## The Horse-Drawn Era {background-color="#1e3a5f"}
+
+![Horse and buggy carriage](images/Horse-and-buggy-Shutterstock.webp)
+
+---
+
+## The Horse-Drawn Era {background-color="#1e3a5f"}
+
+**Peak of Horse Power:**
+
+- Every city had thousands of horses
+- Stables on every corner
+- Horse-drawn trams and buses
+- Individual horse ownership common
+
+**Even in WWII:** Horses moved supplies and artillery when trucks failed.
+
+---
+
+## The Machine Age Arrives {background-color="#1e3a5f"}
+
+**The Steam Engine (1800s):**
+
+- First machines matching horse power
+- Trains moved faster than any horse
+- But still needed human operators
+
+**The Internal Combustion Engine (1885+):**
+
+- Benz creates first practical automobile
+- Ford's Model T (1908) makes cars affordable
+
+---
+
+## The Collapse {background-color="#1e3a5f"}
+
+::: {.columns}
+
+::: {.column width="50%"}
+**Timeline:**
+
+- **1900:** 21 million horses in the US
+- **1920:** Cars outnumber horses in cities
+- **1940:** Horses rare in developed world
+- **1960:** Horses mainly for recreation
+:::
+
+::: {.column width="50%"}
+**The Math:**
+
+- 5,500 years of partnership
+- Gone in 50 years
+
+**Horses didn't become extinct.**
+
+**They became obsolete for work.**
+:::
+
+:::
+
+---
+
+## From Work to Recreation {background-color="#1e3a5f"}
+
+![Electric horseless carriage for events](images/Absolute-Perfect-Electric-Horseless-Carriage-for-Special-Events-Landau-6-Passenger-Vis-a-Vis-Carriage.avif)
+
+---
+
+## The Pattern Emerges {background-color="#1e3a5f"}
+
+::: {.incremental}
+1. **Tool as Amplifier** — Horse extends muscle power
+2. **Tool as Partner** — Human + animal capability
+3. **Machine as Amplifier** — Car extends reach faster
+4. **Machine as Replacement** — No feeding, rest, training needed
+:::
+
+---
+
+## From Mechanical to Cognitive {background-color="#1e3a5f"}
+
+**Industrial Revolution:**
+
+- Replaced physical labor
+- Machines stronger than muscles
+- But still needed human operators
+
+**AI Revolution:**
+
+- Replacing cognitive labor
+- AI faster at pattern recognition
+- **Can make decisions autonomously**
+
+---
+
+## The Final Transition {background-color="#1e3a5f"}
+
+![Waymo autonomous taxi](images/waymo_taxi.avif)
+
+---
+
+## The Final Transition {background-color="#1e3a5f"}
+
+**Where We Are Now:**
+
+- **Tesla Autopilot** — 500,000+ cars with self-driving
+- **Waymo** — Robotaxis in San Francisco, Phoenix
+- **Self-driving trucks** — Testing on highways globally
+
+**Timeline:**
+
+- 2015: First autopilot features
+- 2020: Full self-driving beta
+- 2024: Robotaxis commercially operating
+
+---
+
+## Human Drivers: The New Horses {background-color="#1e3a5f"}
+
+::: {.callout-warning}
+**The "driver" — human decision-making behind the wheel — is being eliminated.**
+:::
+
+**The Pattern Completes:**
+
+- Horse (biological amplifier) → 
+- Car (mechanical amplifier) →
+- AI Car (cognitive replacement)
+
+---
+
+## Beyond Driving {background-color="#1e3a5f"}
+
+![Dubai self-flying drone taxi](images/dubai_self_flying_drone.webp)
+
+---
+
+## The Robot Revolution {background-color="#1e3a5f"}
+
+**Physical Robots:**
+
+- Boston Dynamics Atlas — Humanoid robots
+- Tesla Optimus — Factory work
+- Warehouse robots — Amazon fulfillment
+- Surgical robots — Da Vinci operations
+
+---
+
+## The Robot Revolution {background-color="#1e3a5f"}
+
+**Cognitive AI:**
+
+- ChatGPT/Claude — Writing, coding, analysis
+- Computer vision — Disease diagnosis
+- Trading algorithms — Financial decisions
+- Content generation — Art, music, video
+
+---
+
+## The New Reality {background-color="#1e3a5f"}
+
+::: {.callout-important}
+**Anything that requires a brain to make decisions can be replaced by AI.**
+:::
+
+**Each transition accelerates:**
+
+- Horses: 5,500 years
+- Cars: 50 years  
+- AI: **Maybe 15-20 years**
+
+---
+
+## What AI Can Replace in Africa {background-color="#1e3a5f"}
+
+**Transportation:**
+
+- Boda-boda route optimization
+- Truck drivers
+- Traffic management
+
+---
+
+## What AI Can Replace in Africa {background-color="#1e3a5f"}
+
+**Agriculture:**
+
+- Crop disease diagnosis
+- Irrigation decisions
+- Market price prediction
+
+---
+
+## What AI Can Replace in Africa {background-color="#1e3a5f"}
+
+**Healthcare:**
+
+- Initial patient triage
+- Lab test analysis
+- Disease outbreak detection
+
+---
+
+## What AI Can Replace in Africa {background-color="#1e3a5f"}
+
+**Finance & Government:**
+
+- Credit scoring and fraud detection
+- Tax auditing
+- Document verification
+- Claims processing
+
+---
+
+## What AI Cannot Replace {background-color="#1e3a5f"}
+
+The human elements that remain essential:
+
+- Complex ethical judgments
+- True creativity and innovation
+- Human empathy and context
+- Cross-domain strategic thinking
+- Accountability
+
+---
+
+## The African Context {background-color="#1e3a5f"}
+
+::: {.columns}
+
+::: {.column width="50%"}
+**Why It Might Be Different:**
+
+- Lower labor costs
+- Infrastructure challenges
+- Regulatory gaps
+- Cultural preferences
+:::
+
+::: {.column width="50%"}
+**Why It Will Still Happen:**
+
+- Cost advantages of AI
+- Global technology diffusion
+- Young population embracing tech
+- Leapfrogging opportunity
+:::
+
+:::
+
+---
+
+## Bridging the Gap {background-color="#1e3a5f"}
+
+**How SpeedyKom Can Help:**
+
+- Real-world project examples
+- Technical mentorship
+- Industry best practices
+- Professional network
+- Career pathways in ICT4D
+
+---
+
+## What SpeedyKom Looks For {background-color="#1e3a5f"}
+
+- Problem-first thinking
+- Context awareness
+- Sustainability mindset
+- Collaboration skills
+- Impact orientation
+
+---
+
+## Academic vs. Real-World {background-color="#1e3a5f"}
+
+| Failed Academic | SpeedyKom Approach |
+|-----------------|-------------------|
+| Build first, find users | Start with partnerships |
+| Ignore existing systems | Interoperability first |
+| Assume connectivity | Offline-first design |
+| One-time build | Long-term maintenance |
+| Tech-focused | Problem-first focus |
+
+---
+
+## Your Path Forward {background-color="#1e3a5f"}
+
+::: {.incremental}
+1. **Start with the problem** — What pain point? For whom?
+2. **Understand the ecosystem** — What exists? Who are stakeholders?
+3. **Design for reality** — Offline-first, integration, sustainability
+4. **Think long-term** — Who maintains? How does it scale?
+:::
+
+---
+
+## What We Offer {background-color="#1e3a5f"}
+
+::: {.callout-tip}
+This session is just the beginning.
+:::
+
+- Exposure to international projects
+- Clarity on market-ready solutions
+- Network with industry professionals
+- Mentorship on your projects
+- Career pathways in tech-for-impact
+
+---
+
+## SpeedyKom's Vision {background-color="#1e3a5f"}
+
+Digital infrastructure that strengthens public institutions and advances sustainable development across Africa.
+
+**Our Values:**
+
+- Impact over innovation
+- Partnership over extraction
+- Sustainability over speed
+
+---
+
+## Let's Connect {background-color="#1e3a5f"}
+
+::: {.callout-important}
+We are looking for the next generation of impact-driven technologists.
+:::
+
+**Questions to ask yourself:**
+
+- What problem am I passionate about?
+- How can technology amplify human impact?
+- Am I ready to think beyond grades?
+
+---
+
+## Thank You {background-color="#1e3a5f"}
+
+### Questions & Discussion
+
+**SpeedyKom**
+
+Connecting the Future  
+Digital Infrastructure for Development
+
+[www.speedykom.de](https://speedykom.de)
+
+---
+
+## Connect With Us {background-color="#1e3a5f"}
+
+**SpeedyKom**
+
+Website: speedykom.de  
+Careers: Join our team  
+Projects: See our solutions
+
+**Partners:**
+
+European Union, GIZ, African Union, UNHCR, FAO, Smart Africa
+
+**The future of African tech starts here.**
