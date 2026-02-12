@@ -19,9 +19,7 @@ jupyter: python3
 
 ## Scan to Join {background-color="#1e3a5f"}
 
-::: {.columns}
 
-::: {.column width="50%"}
 **Scan this QR code to access the presentation:**
 
 ```{python}
@@ -54,21 +52,7 @@ plt.imshow(img, cmap='gray')
 plt.axis('off')
 plt.show()
 ```
-:::
 
-::: {.column width="50%"}
-**Or visit directly:**
-
-## [speedykom.github.io/speedykom-academic-bridge/](https://speedykom.github.io/speedykom-academic-bridge/)
-
-Open on your phone to:
-- Follow along with slides
-- Take notes
-- Access resources
-- Share with friends
-:::
-
-:::
 
 ---
 
