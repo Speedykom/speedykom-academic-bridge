@@ -24,6 +24,7 @@ jupyter: python3
 
 ```{python}
 #| echo: false
+#| eval: true
 #| warning: false
 #| output: true
 #| fig-align: center
