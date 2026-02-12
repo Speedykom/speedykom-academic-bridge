@@ -6,11 +6,11 @@
 
 ## Overview
 
-This presentation was created for the SpeedyKom × University Collaboration session held on **February 21, 2025**, bringing together ICT students and industry professionals to bridge the gap between academic work and market-ready solutions.
+This presentation was created for the SpeedyKom × University Collaboration session held on **February 21, 2026**, bringing together ICT students and industry professionals to bridge the gap between academic work and market-ready solutions.
 
 ## 🎯 Session Details
 
-- **Date:** Saturday, February 21, 2025
+- **Date:** Saturday, February 21, 2026
 - **Time:** 9:00 AM — 11:00 AM CET
 - **Format:** Interactive presentation with real-world case studies
 - **Audience:** University students in ICT and related fields
