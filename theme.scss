@@ -179,3 +179,13 @@ $linkColorHover: $speedykom-white;
   display: block;
   margin: 0 auto;
 }
+
+// Logo styling (Enlarged and positioned bottom-right)
+.reveal .logo {
+  height: auto !important;
+  width: 200px !important;
+  max-height: none !important;
+  bottom: 30px !important;
+  right: 30px !important;
+  left: auto !important;
+}
