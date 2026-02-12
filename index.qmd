@@ -11,7 +11,62 @@ format:
     transition: slide
     controls: true
     embed-resources: true
-    scrollable: false  
+    scrollable: false
+jupyter: python3  
+---
+
+## Scan to Join {background-color="#1e3a5f"}
+
+::: {.columns}
+
+::: {.column width="50%"}
+**Scan this QR code to access the presentation:**
+
+```{python}
+#| echo: false
+#| warning: false
+#| output: true
+#| fig-align: center
+
+import qrcode
+import matplotlib.pyplot as plt
+
+# Define the URL
+url = "https://speedykom.github.io/speedykom-academic-bridge/"
+
+# Generate the QR Code
+qr = qrcode.QRCode(
+    version=1,
+    box_size=10,
+    border=2
+)
+qr.add_data(url)
+qr.make(fit=True)
+
+img = qr.make_image(fill_color="black", back_color="white")
+
+# Display it as a plot
+plt.figure(figsize=(6, 6))
+plt.imshow(img, cmap='gray')
+plt.axis('off')
+plt.show()
+```
+:::
+
+::: {.column width="50%"}
+**Or visit directly:**
+
+## [speedykom.github.io/speedykom-academic-bridge/](https://speedykom.github.io/speedykom-academic-bridge/)
+
+Open on your phone to:
+- Follow along with slides
+- Take notes
+- Access resources
+- Share with friends
+:::
+
+:::
+
 ---
 
 ## Welcome {background-color="#1e3a5f"}
