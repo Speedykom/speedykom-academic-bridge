@@ -619,8 +619,42 @@ Website: speedykom.de
 Careers: Join our team  
 Projects: See our solutions
 
+
+
+
+**Scan this QR code to connect with us via LinkedIn**
+
+```{python}
+#| echo: false
+#| eval: true
+#| warning: false
+#| output: true
+#| fig-align: center
+
+import qrcode
+import matplotlib.pyplot as plt
+
+# Define the URL
+url = "https://www.linkedin.com/company/speedykom/"
+
+# Generate the QR Code
+qr = qrcode.QRCode(
+    version=1,
+    box_size=10,
+    border=2
+)
+qr.add_data(url)
+qr.make(fit=True)
+
+img = qr.make_image(fill_color="black", back_color="white")
+
+# Display it as a plot
+plt.figure(figsize=(6, 6))
+plt.imshow(img, cmap='gray')
+plt.axis('off')
+plt.show()
+```
+
 **Partners:**
 
 European Union, GIZ, African Union, UNHCR, FAO, Smart Africa
-
-**The future of African tech starts here.**
