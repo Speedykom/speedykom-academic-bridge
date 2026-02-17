@@ -613,13 +613,6 @@ Digital Infrastructure for Development
 
 ## Connect With Us {background-color="#1e3a5f"}
 
-**SpeedyKom**
-
-Website: speedykom.de  
-Careers: Join our team  
-Projects: See our solutions
-
-
 
 
 **Scan this QR code to connect with us via LinkedIn**
@@ -655,6 +648,3 @@ plt.axis('off')
 plt.show()
 ```
 
-**Partners:**
-
-European Union, GIZ, African Union, UNHCR, FAO, Smart Africa
