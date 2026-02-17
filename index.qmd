@@ -611,7 +611,7 @@ Digital Infrastructure for Development
 
 ---
 
-## Connect With Us {background-color="#1e3a5f"}
+## Connect With Us {background-color="#1e3a5f"} {.smaller}
 
 **SpeedyKom**
 
