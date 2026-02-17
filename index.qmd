@@ -611,7 +611,7 @@ Digital Infrastructure for Development
 
 ---
 
-## Connect With Us {background-color="#1e3a5f"} {.smaller}
+## Connect With Us {background-color="#1e3a5f"}
 
 **SpeedyKom**
 
@@ -649,7 +649,7 @@ qr.make(fit=True)
 img = qr.make_image(fill_color="black", back_color="white")
 
 # Display it as a plot
-plt.figure(figsize=(6, 6))
+plt.figure(figsize=(4, 4))
 plt.imshow(img, cmap='gray')
 plt.axis('off')
 plt.show()
